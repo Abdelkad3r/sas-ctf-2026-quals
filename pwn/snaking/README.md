@@ -251,3 +251,10 @@ SAS{test_flag}
 ## Artifacts
 
 - [`artifacts/solve.py`](artifacts/solve.py) — self-contained payload generator
+- [`artifacts/snaking_55c3cd400b83d56e39f29155f11d1b0d.zip`](artifacts/snaking_55c3cd400b83d56e39f29155f11d1b0d.zip) — original challenge archive
+
+Challenge archive SHA-256:
+
+```text
+97ba27503dad0d911a70851da3d09cb98283ddb179fe49c39bd19bcc1a63c8f1
+```
